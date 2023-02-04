@@ -1,0 +1,43 @@
+{
+	"products" : [
+		{
+			"name" : " KAYO Meio",
+			"collection" : "AVANÇOZINHO",
+			"price" : "79.99",
+			"part" : "5x de R$ 15,99 sem juros",
+			"options" : [
+				{ "Cor" : "Off-White,Preta"},
+				{ "Tamanho" : "PP,P,M,G,GG" }
+			],
+			"image" : "imagens/uniformes/gabriel.jpg",
+			"image2" : "imagens/uniformes/gabriel1.jpg",
+			"description" : "Para aquela seu KAYO que não para de avançar"
+		},
+		{
+			"name" : " Jett Meio",
+			"collection" : "AVANÇOZINHO",
+			"price" : "79.99",
+			"part" : "5x de R$ 15,99 sem juros",
+			"options" : [
+				{ "Cor" : "Off-White,Preta"},
+				{ "Tamanho" : "PP,P,M,G,GG" }
+			],
+			"image" : "imagens/uniformes/jalles.jpg",
+			"image2" : "imagens/uniformes/jalles1.jpg",
+			"description" : "Para aquela sua Jett que não para de avançar"
+		},
+		{
+			"name" : "  Sage Meio",
+			"collection" : "FIRST-DROP",
+			"price" : "79.99",
+			"part" : "5x de R$ 15,99 sem juros",
+			"options" : [
+				{ "Cor" : "Off-White,Preta"},
+				{ "Tamanho" : "PP,P,M,G,GG" }
+			],
+			"image" : "imagens/uniformes/bruna.jpg",
+			"image2" : "imagens/uniformes/bruna1.jpg",
+			"description" : "Uma história muito específica de um Main Sage ai..."
+		}
+	]
+}

@@ -1,0 +1,18 @@
+.button-default {
+    padding: 12px 0px;
+    border-radius: 4px;
+    background-color: var(--color-primary);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    transition: .5s;
+    border: 2px solid transparent;
+}
+
+.button-default:hover {
+    transform: translateY(-.25rem);
+}
+
+.button-default:active {
+    scale: 0.95;
+}
